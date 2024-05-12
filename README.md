@@ -27,4 +27,4 @@ Case Studi: transaksi penjualan di PT. Sejahtera Bersama menggunakan 4 tabel, ya
 6. Memberikan usulan atau saran kepada PT. Sejahtera Bersama berdasarkan pada visualisasi yang telah dibuat.
 
 # 🖥Dashboard PT Sejahtera Bersama
-Link 🔗: [Looker Studio: Tuti Amalia] (https://lookerstudio.google.com/reporting/17832894-d455-4e42-9bc7-f5c0e14f2885)
+Link 🔗: [Looker Studio: Tuti Amalia](https://lookerstudio.google.com/reporting/17832894-d455-4e42-9bc7-f5c0e14f2885)

@@ -5,6 +5,8 @@ Case Studi: transaksi penjualan di PT. Sejahtera Bersama menggunakan 4 tabel, ya
 3. Tabel Orders
 4. Tabel ProductCategory
 
+Dataset 🔗: [Here](https://drive.google.com/file/d/1RwsBQ1FriNfz6qiq0V5nD7gF7jO81To3/view?usp=sharing)
+
 # 🛠️ Tools
 1. Dbeaver
 2. Google Spreadsheet
